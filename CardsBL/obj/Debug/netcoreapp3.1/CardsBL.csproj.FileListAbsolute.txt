@@ -1,0 +1,16 @@
+C:\Users\khurram.DESKTOP-C7VM5AQ\source\repos\CardsBL\bin\Debug\netcoreapp3.1\CardsBL.deps.json
+C:\Users\khurram.DESKTOP-C7VM5AQ\source\repos\CardsBL\bin\Debug\netcoreapp3.1\CardsBL.dll
+C:\Users\khurram.DESKTOP-C7VM5AQ\source\repos\CardsBL\bin\Debug\netcoreapp3.1\CardsBL.pdb
+C:\Users\khurram.DESKTOP-C7VM5AQ\source\repos\CardsBL\obj\Debug\netcoreapp3.1\CardsBL.AssemblyInfoInputs.cache
+C:\Users\khurram.DESKTOP-C7VM5AQ\source\repos\CardsBL\obj\Debug\netcoreapp3.1\CardsBL.AssemblyInfo.cs
+C:\Users\khurram.DESKTOP-C7VM5AQ\source\repos\CardsBL\obj\Debug\netcoreapp3.1\CardsBL.dll
+C:\Users\khurram.DESKTOP-C7VM5AQ\source\repos\CardsBL\obj\Debug\netcoreapp3.1\CardsBL.pdb
+C:\Users\khurram.DESKTOP-C7VM5AQ\source\repos\CardsBL\obj\Debug\netcoreapp3.1\CardsBL.csprojAssemblyReference.cache
+C:\Users\khurram.DESKTOP-C7VM5AQ\Desktop\KhurramAssignment\CardsBL\bin\Debug\netcoreapp3.1\CardsBL.deps.json
+C:\Users\khurram.DESKTOP-C7VM5AQ\Desktop\KhurramAssignment\CardsBL\bin\Debug\netcoreapp3.1\CardsBL.dll
+C:\Users\khurram.DESKTOP-C7VM5AQ\Desktop\KhurramAssignment\CardsBL\bin\Debug\netcoreapp3.1\CardsBL.pdb
+C:\Users\khurram.DESKTOP-C7VM5AQ\Desktop\KhurramAssignment\CardsBL\obj\Debug\netcoreapp3.1\CardsBL.csprojAssemblyReference.cache
+C:\Users\khurram.DESKTOP-C7VM5AQ\Desktop\KhurramAssignment\CardsBL\obj\Debug\netcoreapp3.1\CardsBL.AssemblyInfoInputs.cache
+C:\Users\khurram.DESKTOP-C7VM5AQ\Desktop\KhurramAssignment\CardsBL\obj\Debug\netcoreapp3.1\CardsBL.AssemblyInfo.cs
+C:\Users\khurram.DESKTOP-C7VM5AQ\Desktop\KhurramAssignment\CardsBL\obj\Debug\netcoreapp3.1\CardsBL.dll
+C:\Users\khurram.DESKTOP-C7VM5AQ\Desktop\KhurramAssignment\CardsBL\obj\Debug\netcoreapp3.1\CardsBL.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CardsAssignment/1.0.0": {
+        "dependencies": {
+          "CardsBL": "1.0.0"
+        },
+        "runtime": {
+          "CardsAssignment.dll": {}
+        }
+      },
+      "CardsBL/1.0.0": {
+        "runtime": {
+          "CardsBL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CardsAssignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CardsBL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
